@@ -15,8 +15,8 @@ This README file provides instructions on how to compile and run C++ code on bot
 ## Steps
 
 1- Clone the repository:
-git clone https://github.com/MUHAMMEDMAME/major_assignment.git
-cd major_assignment
+git clone https://github.com/Abdulhamid-Al-Mallah/project.git
+cd project
 
 2. *Compile the Code*:
    - *Mac*:
@@ -25,19 +25,19 @@ cd major_assignment
      
    - *Windows* (using MinGW):
      
-     g++ -std=c++11  -o problem1.exe problem1.cpp
+     g++ -std=c++11  -o main.exe main.cpp
      
    - *Windows* (using Visual Studio):
      
-     cl problem1.cpp
+     cl main.cpp
      
 
 3. *Run the Executable*:
    - *Mac*:
      
-     ./problem1
+     ./main
      
    - *Windows*:
      
-     problem1.exe
+     main.exe
      
